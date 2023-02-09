@@ -4,4 +4,5 @@
 * PyQt 5 used
 * socket library used
 ***
-![github](figures/program.png)
+
+![](figures/program.png)
