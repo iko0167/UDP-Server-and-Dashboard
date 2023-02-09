@@ -5,4 +5,4 @@
 * socket library used
 ***
 
-![](figures/program.png)
+![](figures/Program.png)
